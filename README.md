@@ -1,4 +1,4 @@
-# git remote add origin 📚
+# MongoosePlayground 📚
 
 A beginner-friendly Node.js project exploring MongoDB integration using **Mongoose**. This project demonstrates schema creation, document validation, CRUD operations, and querying MongoDB collections using JavaScript.
 
